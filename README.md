@@ -18,3 +18,5 @@ playdate pulp のエディタ画面の左側メニュー`Font`に遷移し、
 `、`: Shift＋,  
 
 `。`: Shift+.  
+
+`ー`: Shift+^
